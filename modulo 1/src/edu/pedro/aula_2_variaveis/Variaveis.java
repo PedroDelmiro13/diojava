@@ -1,4 +1,4 @@
-package edu.pedro.aula_2;
+package edu.pedro.aula_2_variaveis;
 
 public class Variaveis {
     public static void main(String[] args) {
