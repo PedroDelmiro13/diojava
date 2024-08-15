@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Desafio {
     public static void main(String[] args) {
-        //todo: conhecer e importar o scanner
+        //to do: conhecer e importar o scanner
 
         //exibir as mensagens para o usuario
 
