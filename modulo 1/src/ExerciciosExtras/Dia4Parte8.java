@@ -1,4 +1,4 @@
-package Java100dias;
+package ExerciciosExtras;
 import java.util.ArrayList;
 import java.util.Scanner;
 

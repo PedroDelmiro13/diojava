@@ -1,4 +1,4 @@
-package Java100dias;
+package ExerciciosExtras;
 import java.util.Random;
 import java.util.Scanner;
 

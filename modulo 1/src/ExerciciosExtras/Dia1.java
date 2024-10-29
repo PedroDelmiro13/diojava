@@ -1,4 +1,4 @@
-package Java100dias;
+package ExerciciosExtras;
 
 public class Dia1 {
     public static void main(String[] args) {

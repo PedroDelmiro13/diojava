@@ -1,4 +1,4 @@
-package Java100dias;
+package ExerciciosExtras;
 
 import java.util.Scanner;
 
@@ -11,5 +11,6 @@ public class Dia4Parte6 {
                 System.out.println(itens);
             };
         }
+        in.close();
     }
 }

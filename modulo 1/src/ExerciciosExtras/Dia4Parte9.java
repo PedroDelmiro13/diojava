@@ -1,5 +1,4 @@
-package Java100dias;
-import java.util.ArrayList;
+package ExerciciosExtras;
 import java.util.Scanner;
 
 public class Dia4Parte9 {
@@ -19,5 +18,6 @@ public class Dia4Parte9 {
         }while(nota>=0);
         int media = soma / contador;
         System.out.println(media);
+        sc.close();
     }
 }
