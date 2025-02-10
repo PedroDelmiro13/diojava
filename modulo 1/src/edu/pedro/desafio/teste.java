@@ -2,7 +2,7 @@ package edu.pedro.desafio;
 import java.util.Random;
 import java.util.Scanner;
 
-public class Main {
+public class teste {
     public static void main(String[] args) {
         Random random = new Random();
         Scanner sc = new Scanner(System.in);
