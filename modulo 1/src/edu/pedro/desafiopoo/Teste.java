@@ -17,7 +17,7 @@ public class Teste {
         System.out.println("Quantidade: ");
         produto.quantidade = sc.nextInt();
 
-        System.out.println("Dados do produto" + produto);
+        System.out.println("Dados do produto " + produto);
 
         System.out.println("Entre com o número de produtos para serem adicionados no estoque");
         int quantidade = sc.nextInt();
